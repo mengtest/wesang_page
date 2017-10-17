@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Book-Page Curl/Example/scenes/Example_1_Basic Book.unity
+  isLoaded: 1
+  isActive: 1
